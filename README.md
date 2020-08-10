@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 ✨ Nick Slusarczyk ✨
 🔭 I'm currently working on a game. 
 
-Using : ![C#][csharpicon] ![Unity][unityicon]
+Using : 
+![C#][csharpicon] 
+![Unity][unityicon]
 
 [csharpicon]: https://github.com/axxessdenied/axxessdenied/icons/icons8-c-sharp-logo-48.png "CS Icon"
 [unityicon]: https://github.com/axxessdenied/axxessdenied/unity/icons8-unity-50.png "Unity Icon"
